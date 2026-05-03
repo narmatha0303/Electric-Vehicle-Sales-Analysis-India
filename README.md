@@ -8,6 +8,9 @@ AtliQ Motors, a US-based automotive leader with a 25% market share in North Amer
 
 ---
 
+## 🔗 Live Interactive Dashboard
+**[View the Live Power BI Dashboard Here](https://app.powerbi.com/view?r=eyJrIjoiNjFlNjdlMzAtNmY0Yy00MjA0LWFjNzAtM2IyNzlmMzc3NzAwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**
+
 ## 📂 Project Assets & Visuals
 
 ### 📄 Full Strategic Report
