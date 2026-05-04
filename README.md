@@ -170,6 +170,25 @@ https://github.com/user-attachments/assets/7c908033-22ca-4a12-9e1e-702da478fddb
 
 ---
 
+## 🔍 Key Business Questions Answered
+
+This analysis was guided by the following business questions:
+
+- Which states contribute the most to EV adoption?
+- Which vehicle segment (2W vs 4W) drives the market?
+- Who are the dominant OEMs in each category?
+- How fast is the market growing (CAGR)?
+- Where are the gaps between adoption and infrastructure?
+
+---
+
+## 📈 Key Findings
+
+- EV adoption is concentrated in a few high-performing states
+- 2-Wheelers dominate due to affordability and demand patterns
+- Market leadership is already established across segments
+- Infrastructure development is not uniform across regions
+
 ## 🚀 Final Recommendation
 
 ### 🎯 Market Entry Strategy
