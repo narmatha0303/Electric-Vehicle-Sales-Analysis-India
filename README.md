@@ -1,5 +1,5 @@
 # 🚗 AtliQ Motors: India EV Market Entry Strategy  
-### *A Data-Driven Blueprint for Unlocking the World's Most Dynamic EV Market*
+### *A Data-Driven Go-To-Market Blueprint for India’s Electric Mobility Revolution*
 
 <p align="center">
   <img src="./banner.png" width="100%"/>
@@ -7,87 +7,112 @@
 
 ---
 
-## 📌 Project Overview
+## 🧭 Executive Summary
 
-AtliQ Motors, a US-based automotive leader with a 25% market share in North America, is preparing to enter the Indian EV landscape. This project provides a comprehensive market study (2022–2024) to guide Bruce Haryali, Head of AtliQ Motors India, in executing a successful entry strategy.
+AtliQ Motors, a leading US-based automotive company with a **25% market share in North America**, is planning its strategic entry into the **Indian Electric Vehicle (EV) market**.
 
-**Workflow Strategy:**  
-`DETECT` Market Gaps | `ANALYZE` Penetration Trends | `AUTOMATE` Sales Intelligence
+This project simulates a real-world **market intelligence and strategy consulting engagement**, aimed at identifying the best entry strategy using data from **2022–2024 EV market trends**.
+
+The goal is to answer:
+
+> ❓ How should AtliQ Motors enter India’s EV market in a way that is **profitable, scalable, and sustainable**?
+
+---
+
+## 🎯 Business Problem
+
+India’s EV ecosystem is growing rapidly but remains highly complex:
+
+- Uneven EV penetration across states  
+- Infrastructure development gaps  
+- Strong dominance of local OEMs  
+- Price-sensitive consumer behavior  
+
+👉 AtliQ Motors needs a **data-backed entry strategy** to navigate this landscape effectively.
+
+---
+
+## 🧠 Objective
+
+- Analyze India’s EV market trends (2022–2024)
+- Identify high-growth states and segments
+- Evaluate competitive landscape (OEMs)
+- Measure EV penetration and adoption patterns
+- Recommend a strategic market entry plan
+
+---
+
+## 🛠️ Tech Stack
+
+- **SQL** → Data extraction & transformation  
+- **Power BI** → Interactive dashboards & visualization  
+- **Excel** → Data cleaning & exploratory analysis  
 
 ---
 
 ## 📊 Live Dashboard
 
-🔗 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjFlNjdlMzAtNmY0Yy00MjA0LWFjNzAtM2IyNzlmMzc3NzAwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjFlNjdlMzAtNmY0Yy00MjA0LWFjNzAtM2IyNzlmMzc3NzAwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
-**[📄 SQL Query Documentation (HD PDF)](./SQL%20Query%20Documentation-2.pdf)**
+## 📁 Project Files
 
+📄 [Full Report](./EV%20project.pdf)  
+📄 [SQL Documentation](./SQL%20Query%20Documentation-2.pdf)
 
-*Click the image above to view the full SQL logic and query documentation.*
-##  Project Files (IMPORTANT)
+### 📊 Visuals
 
-📄 Full Report:  
- [EV project.pdf](./EV%20project.pdf)
-
-📊 Data Model Image:  
+- Data Model  
 ![Data Model](./data%20model.png)
 
-📊 States Analysis:  
-![States Analysis](./States%20analysis.png)
+- State Analysis  
+![State Analysis](./States%20analysis.png)
 
-📊 State Comparison:  
+- State Comparison  
 ![State Comparison](./state%20Comparision.png)
 
-📊 Maker Analysis:  
+- Maker Analysis  
 ![Maker Analysis](./Maker%20analysis.png)
 
-📊 Filter Pane:  
-![Filter Pane](./Filter%20pane.png)
+- Filter Panel  
+![Filter Panel](./Filter%20pane.png)
 
-🎥 Dashboard Video:  
-
-
-https://github.com/user-attachments/assets/ac05864c-009b-42ae-a976-cff73b189efb
+🎥 Dashboard Demo  
 
 
----
+https://github.com/user-attachments/assets/7c908033-22ca-4a12-9e1e-702da478fddb
 
-##  Objective & Scope
 
-- **Objective:** Conduct a multi-dimensional market study of the Indian EV/Hybrid industry  
-- **Methodology:** STAR Method (Situation, Task, Action, Result)  
-- **Tech Stack:** SQL, Power BI, Advanced Excel  
 
 ---
 
-##  Dataset Understanding
+## 🗃️ Dataset Overview
 
-###  dim_date table
-- Date range: April 1, 2021 – March 1, 2024  
-- Fiscal Year: FY2022 to FY2024  
-- Fiscal year starts in April  
+### 📅 Dim Date Table
+- Range: Apr 2021 – Mar 2024  
+- Fiscal Year: FY2022–FY2024  
 - Includes quarterly breakdown  
 
 ---
 
-###  EV Sales by State (Fact Table)
--  Monthly recorded data (DD-MMM-YY)  
-- State-wise EV sales in India  
-- Vehicle Category: 2-Wheeler / 4-Wheeler  
-- Electric Vehicles Sold  
-- Total Vehicles Sold  
+### 🚗 EV Sales by State (Fact Table)
+- Monthly state-wise EV sales  
+- Vehicle categories: 2W & 4W  
+- EV vs total vehicle sales  
 
 ---
 
-###  EV Sales by Makers (Fact Table)
-- Monthly recorded data  
--  Vehicle Category: 2W / 4W  
--  Manufacturer name  
--  EVs Sold  
+### 🏭 EV Sales by Makers (Fact Table)
+- Monthly OEM-level sales  
+- Category-wise segmentation  
+- Manufacturer performance tracking  
 
 ---
+
+## 📐 Key Metrics
+
+### ⚡ EV Penetration Rate
 
 ##  Key Calculated Metrics
 
@@ -105,65 +130,56 @@ https://github.com/user-attachments/assets/ac05864c-009b-42ae-a976-cff73b189efb
 
 ---
 
-###  Penetration Change
+---
 
-- **Absolute Change**  
-  = Penetration Rate 2024 − Penetration Rate 2022  
+### 📊 Penetration Change
 
-- **Relative Change**  
-  = (Difference / Penetration Rate 2022) × 100  
+- Absolute Change = 2024 − 2022  
+- Relative Change = (Difference / 2022) × 100  
 
 ---
 
-##  Data Import Process
+## 📊 Key Insights
 
-- 3 CSV files used initially  
-- Additional datasets (charging infrastructure data) added later  
+### ⚡ Market Growth
+- EV market grew ~50% YoY (2023)
+- EVs contribute **6.5% of total vehicle sales**
 
----
+### 🛵 Segment Trends
+- 2-Wheelers dominate with **56% share**
+- 4-Wheelers show fastest growth
 
-##  Dashboard Pages
+### 🏆 OEM Performance
+- Ola Electric → 2W leader  
+- Tata Motors → 4W leader  
+- BMW → Highest CAGR (1141%)  
 
-- Home  
-- Makers Analysis  
-- States Analysis  
-- State-wise Comparison  
-
----
-
-##  Key Insights from Dashboard
-
--  EV market in India grew ~50% YoY in CY2023  
--  EVs contribute 6.5% of total vehicle sales  
--  2-Wheelers dominate EV market (56% share)  
--  Electric cars show highest growth (116% YoY)  
-- Ola Electric dominates 2W segment  
--  Tata Motors leads 4W segment  
--  BMW shows highest CAGR (1141%) in luxury EV segment  
--  Meghalaya has highest CAGR among states (28.47%)  
--  Maharashtra leads in EV sales + charging infra  
--  Goa has highest penetration but weak infrastructure  
+### 🌍 State Insights
+- Maharashtra → highest EV adoption + infra  
+- Goa → highest penetration  
+- Meghalaya → fastest growth (28.5% CAGR)  
 
 ---
 
-##  Advanced Insights
+## 🧠 Strategic Insights
 
-- **High-Growth Segment:** BMW India achieved **1141% CAGR**  
-- **State Leader:** Meghalaya leads with **28.5% CAGR**  
-- **Seasonal Peak:** March records highest EV sales (~138,343 units in 2024)  
-
----
-
-##  Strategic Recommendations
-
-| Recommendation | Strategy | Rationale |
-| :--- | :--- | :--- |
-| Manufacturing Hub | Tamil Nadu | Strong automotive ecosystem |
-| Product Focus | Affordable 2W | Highest demand segment |
-| Brand Positioning | Innovation-first | Build tech-driven identity |
+- India is a **2W-driven price-sensitive market**
+- Infrastructure is **lagging behind adoption**
+- Premium EV market is **high growth but niche**
+- State-level strategy is more important than national rollout
 
 ---
 
+## 🚀 Final Recommendation
+
+### 🎯 Market Entry Strategy
+
+- 🏭 Set up manufacturing hub in **Tamil Nadu**
+- 🛵 Focus on **affordable 2-wheeler EV segment**
+- ⚡ Partner with state governments for charging infra
+- 🧠 Position brand as **technology-first EV leader**
+
+---
 ## Author
 
 **Narmatha Annadurai**  
