@@ -44,9 +44,9 @@ India’s EV ecosystem is growing rapidly but remains highly complex:
 
 ## 🛠️ Tech Stack
 
-- **SQL** → Data extraction & transformation  
-- **Power BI** → Interactive dashboards & visualization  
-- **Excel** → Data cleaning & exploratory analysis  
+- **SQL** → Performed ad-hoc analysis and validated business queries through efficient data extraction  
+- **Power BI** → Built data model, cleaned datasets, and developed interactive dashboards for insight generation  
+- **Excel** → Conducted secondary research, data validation, and exploratory analysis
 
 ---
 
