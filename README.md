@@ -22,10 +22,7 @@ AtliQ Motors, a US-based automotive leader with a 25% market share in North Amer
 
 ---
 
-## 📂 Technical Documentation
-### SQL Query Logic & Data Engineering Walkthrough
-[![View SQL Documentation](https://img.shields.io/badge/View_Presentation-Orange?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)](https://1drv.ms/p/c/A12F2CA3782F59B4/IQTrWWE_XfEeQ63tpyWwY4sxAZam4CzTU_WgloEslbAtrz0)
-
+**[📄 SQL Query Documentation (HD PDF)](./SQL_Query_Documentation.pdf)**
 
 
 *Click the image above to view the full SQL logic and query documentation.*
