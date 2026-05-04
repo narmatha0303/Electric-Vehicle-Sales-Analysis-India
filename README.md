@@ -193,7 +193,7 @@ This analysis was guided by the following business questions:
 
 ### 🎯 Market Entry Strategy
 
-- 🏭 Set up manufacturing hub in **Tamil Nadu**
+- 🏭 Set up manufacturing hub in **MH**
 - 🛵 Focus on **affordable 2-wheeler EV segment**
 - ⚡ Partner with state governments for charging infra
 - 🧠 Position brand as **technology-first EV leader**
