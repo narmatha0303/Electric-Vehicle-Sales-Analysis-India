@@ -22,7 +22,7 @@ AtliQ Motors, a US-based automotive leader with a 25% market share in North Amer
 
 ---
 
-**[📄 SQL Query Documentation (HD PDF)](./SQL_Query_Documentation.pdf)**
+**[📄 SQL Query Documentation (HD PDF)](./SQL%20Query%20Documentation-2.pdf)**
 
 
 *Click the image above to view the full SQL logic and query documentation.*
